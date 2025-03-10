@@ -1,7 +1,7 @@
 ### Hi, I'm Anastasiia!
 
 
-# 💫 About Me:
+## 💫 About Me:
 - 🔬 BSc Neuroscience and Psychology student in my final year<br>- 📚 Focusing on Experimental, ML, and Computational Neuroscience<br>- 🤖 Working on my Research Project on speech-based diagnosis of depression<br>- 🤩 Interested in healthtech and the use of technology for automation and accessiblity<br><br>
 
 
