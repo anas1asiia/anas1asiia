@@ -2,7 +2,7 @@
 
 
 ### 💫 About Me:
-- 🔬 BSc Neuroscience and Psychology graduate in my final year<br>- 🔬 Experience as an Undergraduate Research Fellow at Social, Genetic, and Developmental Psychiatry Centre in London, UK <br>- 🤖 Research on changes in lexical aspects of speech in depression <br>- 🤩 Joining Patchwork Health as a RevOps Analyst <br><br>
+- 🔬 Experience as an Undergraduate Research Fellow at Social, Genetic, and Developmental Psychiatry Centre in London, UK <br>- 🤖 Research on changes in lexical aspects of speech in depression <br>- 🤩 Joining Patchwork Health as a RevOps Analyst <br><br>
 
 
 ### 🌐 Socials
