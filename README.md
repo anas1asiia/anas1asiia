@@ -1,13 +1,11 @@
 ## Hi, I'm Anastasiia!
 
 ### 💫 About Me:
-<br>- 🔬 Experience as an Undergraduate Research Fellow at Social, Genetic, and Developmental Psychiatry Centre in London, UK <br>- 🤖 Research on changes in lexical aspects of speech in depression <br>- 🤩 Joining Patchwork Health as a RevOps Analyst <br><br>
-
-### 💫 About Me:
-- 🔬 Experience as an Undergraduate Research Fellow at Social, Genetic, and Developmental Psychiatry Centre in London, UK
-  - 🤖 Research on changes in lexical aspects of speech in depression
-- 🤩 Joining Patchwork Health as a RevOps Analyst
-
+- 🔬 Experience as an Undergraduate Research Fellow at Social, Genetic, and Developmental Psychiatry Centre in London, UK (Jun 2025-Aug 2025)
+  - Awarded a competitive fellowship to transform my BSc project for a publication in the Journal of Affective Disorders (JAD)
+  - Presented research at UK and Ireland Speech conference 2025 in York
+  - Manuscript draft currently udnergoing peer review
+- 🤩 Joining Patchwork Health as a RevOps Analyst in Sep 2025
 
 
 
