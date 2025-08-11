@@ -3,7 +3,7 @@
 ### 💫 About Me:
 - 🔬 Experience as an Undergraduate Research Fellow at Social, Genetic, and Developmental Psychiatry Centre in London, UK (Jun 2025-Aug 2025)
   - Awarded a competitive fellowship to transform my BSc project on changes in lexical aspects of speech and speech-based ML prediction of depression severity for a publication in the Journal of Affective Disorders (JAD)
-  - Presented my findings at UK and Ireland Speech conference 2025 in York
+  - Presented my findings at the UK and Ireland Speech conference 2025 in York
   - Manuscript draft currently udnergoing peer review
 - 🤩 Joining Patchwork Health as a RevOps Analyst in Sep 2025
 
