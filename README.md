@@ -3,9 +3,10 @@
 ### 💫 About Me:
 <br>- 🔬 Experience as an Undergraduate Research Fellow at Social, Genetic, and Developmental Psychiatry Centre in London, UK <br>- 🤖 Research on changes in lexical aspects of speech in depression <br>- 🤩 Joining Patchwork Health as a RevOps Analyst <br><br>
 
-<br>- 🔬 Experience as an Undergraduate Research Fellow at Social, Genetic, and Developmental Psychiatry Centre in London, UK
-    • 🤖 Research on changes in lexical aspects of speech in depression
-<br>- 🤩 Joining Patchwork Health as a RevOps Analyst
+### 💫 About Me:
+- 🔬 Experience as an Undergraduate Research Fellow at Social, Genetic, and Developmental Psychiatry Centre in London, UK
+  - 🤖 Research on changes in lexical aspects of speech in depression
+- 🤩 Joining Patchwork Health as a RevOps Analyst
 
 
 
