@@ -2,7 +2,7 @@
 
 
 ### 💫 About Me:
-- 🔬 BSc Neuroscience and Psychology student in my final year<br>- 📚 Focusing on Experimental, ML, and Computational Neuroscience<br>- 🤖 Working on my Research Project on speech-based diagnosis of depression<br>- 🤩 Interested in healthtech and the use of technology for automation and accessiblity<br><br>
+- 🔬 BSc Neuroscience and Psychology graduate in my final year<br>- 🔬 Experience as an Undergraduate Research Fellow at Social, Genetic, and Developmental Psychiatry Centre in London, UK <br>- 🤖 Research on changes in lexical aspects of speech in depression <br>- 🤩 Joining Patchwork Health as a RevOps Analyst <br><br>
 
 
 ### 🌐 Socials
